@@ -71,4 +71,4 @@ def main():
    app.exec_()
 
 
-main()# write the code for main app and first screen
+main()
